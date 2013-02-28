@@ -6,7 +6,7 @@ namespace tarea1
 	{
 		public static void Main ()
 		{
-			
+			//programa
 			persona Persona = new persona ();
 			Console.WriteLine ("Escribe tu Nombre");
 			persona.nombre = Console.ReadLine();
